@@ -1,4 +1,4 @@
-#SQL Learning Journey
+# SQL Learning Journey
 
 Welcome to my SQL learning journey! This repository documents my progress and dedication to actively learning SQL. My name is Sara, and I have a passion for data and data analysis. I strongly believe that mastering SQL is crucial for effective data management and analysis, which aligns perfectly with my career goals.
 
