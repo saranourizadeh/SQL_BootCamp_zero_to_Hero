@@ -1,3 +1,4 @@
+
 SELECT hacker_id, name, sum(m_score) as total_score
 FROM (
     SELECT s.hacker_id ,h.name, s.challenge_id, MAX(s.score) as m_score
